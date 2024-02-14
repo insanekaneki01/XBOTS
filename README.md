@@ -8,14 +8,14 @@
 > ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !
 
 
-# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+# KANEKI
 
 
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/insanekaneki01/XBOTS)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/https://t.me/akari_updates/XBOTS)
 
 </details>
 
