@@ -12,7 +12,7 @@ START_BUTTON = [
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Insanesociety")
     ],
     [
-        Button.url("https://t.me/insanesociety")
+        Button.url("• 𝗠𝗬 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 •","https://t.me/@OKaneki")
     ]
 ]
 
