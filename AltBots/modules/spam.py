@@ -80,7 +80,7 @@ async def spam(event: events):
 async def pspam(event):
     if event.sender_id in SUDO_USERS:
         if event.chat_id in GROUP:
-            await event.reply("» YE GROUP ASHWANI KE UNDER MAI HAI ISLEYE ISME PSPAM NHI HOGA...")
+            await event.reply("» YE GROUP KANEKI KE ANDER ME HAI ISLEYE ISME PSPAM NHI HOGA...")
         else:
             try:
                 counter = int(event.text.split(" ", 2)[1])
